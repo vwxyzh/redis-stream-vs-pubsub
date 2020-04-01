@@ -11,7 +11,7 @@ Perf test for redis stream and pub/sub.
 * OS: Linux (ubuntu 18.04)
 * Release: netcoreapp 3.1 (self-contained, linux-x64)
 * StackExchange.Redis: 2.1.28
-* Redis: 5.0.8 ([install](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04))
+* Redis: 5.0.8 ([install](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04), no ssl, no auth)
 
 ## Test result
 
